@@ -1,4 +1,4 @@
-# 🚀 Navneet Crypto Tracker
+# 🚀 Crypto Tracker
 
 A real-time cryptocurrency price tracker built using **React**, **Redux Toolkit**, and **Bootstrap 5**.  
 It simulates live crypto price updates (like CoinMarketCap) using mocked data & Redux state management.
